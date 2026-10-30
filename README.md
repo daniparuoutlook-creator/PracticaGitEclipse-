@@ -1,2 +1,3 @@
 # PracticaGitEclipse-
 PracticaGitEclipse 
+## Funcionalidades
